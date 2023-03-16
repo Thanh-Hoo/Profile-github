@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, I'm Taylor</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, I'm Thanh Ho</h1>
 <h3 align="center">I am a AI Engineer graduate from the University of Information Technology. I have a strong interest in AI advancements and machine learning applications (such as finance, economy, hi-tech ).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanh-hoo&label=Profile%20views&color=0e75b6&style=flat" alt="thanh-hoo" /> </p>
